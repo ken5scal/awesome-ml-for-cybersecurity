@@ -8,9 +8,11 @@ A curated list of amazingly awesome tools and resources related to the use of ma
 
  - [Datasets](#-datasets)
  - [Papers](#-papers)
+ - [Blogs](#-blogs)
  - [Books](#-books)
  - [Talks](#-talks)
  - [Tutorials](#-tutorials)
+ - [Tools](#-tools)
  - [Courses](#-courses)
  - [Miscellaneous](#-miscellaneous)
 
@@ -51,11 +53,20 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Anagram – A Content Anomaly Detector Resistant to Mimicry Attacks](http://www.covert.io/research-papers/security/Anagram%20-%20A%20Content%20Anomaly%20Detector%20Resistant%20to%20Mimicry%20Attack.pdf)
 * [Applications of Machine Learning in Cyber Security](https://www.researchgate.net/publication/283083699_Applications_of_Machine_Learning_in_Cyber_Security)
 
+## [↑](#blogs) Blogs
+* [SECURITY + BIG DATA + MACHINE LEARNING](http://www.covert.io/)
+* [Deep Learning Advent Calendar 2016](http://www.adventar.org/calendars/1687)
+* [Machine Learning Advent Calendar 2016](http://qiita.com/advent-calendar/2016/machine-learning)
+* [ぱろっくの日記](http://palloc.hateblo.jp/entry/2016/12/23/001433)
+
 ## [↑](#table-of-contents) Books
 
 * [Data Mining and Machine Learning in Cybersecurity](https://www.amazon.com/Data-Mining-Machine-Learning-Cybersecurity/dp/1439839425)
 * [Machine Learning and Data Mining for Computer Security](https://www.amazon.com/Machine-Learning-Mining-Computer-Security/dp/184628029X)
 * [Network Anomaly Detection: A Machine Learning Perspective](https://www.amazon.com/Network-Anomaly-Detection-Learning-Perspective/dp/1466582081)
+* [データサイエンティスト養成読本 from 技術評論社](http://amzn.asia/6HLOW4Z)
+* [ITエンジニアのための機械学習理論入門 by 中井悦司]()
+* [ゼロから作るDeep Learning](http://amzn.asia/hcegLfL)
 
 ## [↑](#table-of-contents) Talks
 
@@ -80,6 +91,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [The Applications Of Deep Learning On Traffic Identification](https://www.youtube.com/watch?v=B7OKgC3AJVM)
 * [Defending Networks With Incomplete Information: A Machine Learning Approach](https://www.youtube.com/watch?v=_0CRSF6yPB4)
 * [Machine Learning & Data Science](https://vimeo.com/112702666)
+* [機械学習でWebアプリケーションの脆弱性を見つける方法] (http://www.slideshare.net/babaroa/code-blue-2016-web)
+* [正規分布を使ったアノーマリー検知 Apacheログ](http://www.slideshare.net/takashikomatsubara50/apache-54048225)
 
 ## [↑](#table-of-contents) Tutorials
 
@@ -96,10 +109,14 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 * [Data Mining for Cyber Security by Stanford](http://web.stanford.edu/class/cs259d/)
 
+## [↑](#tools) Tools
+* [Packetpig - Open Source Big Data Security Analytics](https://github.com/packetloop/packetpig)
+
 ## [↑](#table-of-contents) Miscellaneous
 
 * [System predicts 85 percent of cyber-attacks using input from human experts](http://news.mit.edu/2016/ai-system-predicts-85-percent-cyber-attacks-using-input-human-experts-0418)
 * [A list of open source projects in cyber security using machine learning](http://www.mlsecproject.org/#open-source-projects)
+
 
 ## License
 
